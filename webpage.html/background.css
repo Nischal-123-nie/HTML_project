@@ -1,0 +1,7 @@
+html { 
+    background: url(http://www.psd-dude.com/tutorials/resources-images/presentation-background/cute-powerpoint-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
